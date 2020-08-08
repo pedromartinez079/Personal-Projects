@@ -1,7 +1,7 @@
 # Personal-Projects
 #
 # Qhatu Crypto Twitter bot
-Twittwer bot developed with python that give market information about Bitcoin
+Twittwer bot developed with python that give market information about Bitcoin\n
 Status: Live on Twitter
 #
 # Miner Monitor for Nicehash pools
