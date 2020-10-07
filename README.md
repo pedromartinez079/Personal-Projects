@@ -21,5 +21,5 @@
 # Bitcoin BB Bot 
 - Python app that monitors Bitcoin stock information and makes automatic trades looking for profits
 - It uses Bollinger Band indicator for 15 minutes time frame and line regressions. Buys on middle and/or lower bands and sells on upper band
-- Status: Test, trade simulations
+- Status: Test, live trading over Binance exchange
 #
