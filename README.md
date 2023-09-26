@@ -2,7 +2,7 @@
 #
 # Qhatu Crypto Twitter bot
 - Twittwer bot developed with python that give market information about Bitcoin
-- Status: Live on Twitter @qhatucrypto
+- Status: Live on Twitter [@qhatubitcoin](https://twitter.com/qhatubitcoin)
 #
 # Rantikuq Bot 
 - Python application that monitors Bitcoin stock information and makes automatic trades looking for profits
