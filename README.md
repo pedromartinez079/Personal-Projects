@@ -13,7 +13,7 @@
 - Status: Completed
 #
 # Web Scraping
-- Python application that gets information from webs pages for data mining, or to generate new information for web pages. Use of Selenium and Scrapy libraries.
+- Python application that gets information from webs pages for data mining, or to generate new information for web pages. It provides input information for the ECommerce Store project. Use of Selenium and Scrapy libraries.
 - Status: Completed
 #
 # Rantikuq Bot 
