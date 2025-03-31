@@ -1,5 +1,9 @@
 # Personal-Projects
 #
+# OpenAi-WebInterface
+- NextJS, ReactJS application that implements a web interface to interact with Open AI tool such us ChatGPT, Dalle and Open AI Assistants.
+- Status: Work in progress
+#
 # ECommerce Store - NextJS ReactJS Version
 - NextJS, ReactJS application that implements a web site to show products or a gallery of products. It is a framework migration for a version developed with Python Django.
 - Status: Live on [Vercel](https://regulus-store.vercel.app/)
