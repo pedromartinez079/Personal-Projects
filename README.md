@@ -13,7 +13,7 @@
 - Status: Live on [Windows OS](https://github.com/pedromartinez079/AI-VoiceAssistant/releases/download/v1.0.0/VoiceAssistantAPP.exe)
 #
 # OpenAi-WebInterface
-- NextJS, ReactJS application that implements a web interface to interact with Open AI tool such us ChatGPT, Dalle and Open AI Assistants.
+- NextJS, ReactJS application that implements a web interface to interact with Open AI tool such us ChatGPT, Dalle, Open AI Assistants, and Open AI Responses.
 - Status: [Installation procedure](https://github.com/pedromartinez079/OpenAI-WebInterface)
 #
 # ECommerce Store - NextJS ReactJS Version
@@ -39,9 +39,9 @@
 #
 # Qhatu Bitcoin Twitter bot
 - Twitter bot developed with python that give market information about Bitcoin.
-- Status: Live on Twitter [@qhatubitcoin](https://twitter.com/qhatubitcoin)
+- Status: Deprecated
 #
 # Miner Monitor for Nicehash pools
 - Android app that monitors minig rigs connected to Nicehash pools.
-- Status: Live on Google Play.
+- Status: Deprecated
 #
