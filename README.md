@@ -1,5 +1,9 @@
 # Personal-Projects
 #
+# Bitcoin Blockchain Explorer - Flutter
+- Android application to explore bitcoin blockchain information. Developed using Flutter/Dart.
+- Status: Live on [Google Play (Available soon!)](https://play.google.com/)
+#
 # OpenAi-WebInterface
 - NextJS, ReactJS application that implements a web interface to interact with Open AI tool such us ChatGPT, Dalle and Open AI Assistants.
 - Status: Work in progress
@@ -9,7 +13,7 @@
 - Status: Live on [Vercel](https://regulus-store.vercel.app/)
 #
 # Bitcoin Blockchain Explorer
-- Web application to explorer bitcoin blockchain information. Developed using React and Next.js framework.
+- Web application to explore bitcoin blockchain information. Developed using React and Next.js framework.
 - Status: Live on [Vercel](https://bitcoin-blockchain-explorer-5kpn.vercel.app/)
 #
 # ECommerce Store
