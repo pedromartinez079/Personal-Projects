@@ -1,12 +1,20 @@
 # Personal-Projects
 #
+# AI-VoiceAssistant-Flutter
+- Android application that allows you to interact with Open AI (chat-gpt) and X AI (grok). Uses STT or speech to text, TTS or text to speech and AI API services. Developed using Flutter/Dart.
+- Status: Live on [Google Play (Available soon!)](https://play.google.com/)
+#
 # Bitcoin Blockchain Explorer - Flutter
 - Android application to explore bitcoin blockchain information. Developed using Flutter/Dart.
 - Status: Live on [Google Play (Available soon!)](https://play.google.com/)
 #
+# AI-VoiceAssistant
+- Python application that allows you to interact with Open AI (chat-gpt) and X AI (grok). Uses STT or speech to text, TTS or text to speech and AI API services.
+- Status: Live on [Windows OS](https://github.com/pedromartinez079/AI-VoiceAssistant/releases/download/v1.0.0/VoiceAssistantAPP.exe)
+#
 # OpenAi-WebInterface
 - NextJS, ReactJS application that implements a web interface to interact with Open AI tool such us ChatGPT, Dalle and Open AI Assistants.
-- Status: Work in progress
+- Status: [Installation procedure](https://github.com/pedromartinez079/OpenAI-WebInterface)
 #
 # ECommerce Store - NextJS ReactJS Version
 - NextJS, ReactJS application that implements a web site to show products or a gallery of products. It is a framework migration for a version developed with Python Django.
