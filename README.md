@@ -10,7 +10,7 @@
 #
 # AI-VoiceAssistant
 - Python application that allows you to interact with Open AI (chat-gpt) and X AI (grok). Uses STT or speech to text, TTS or text to speech and AI API services.
-- Status: Live on [Windows OS](https://github.com/pedromartinez079/AI-VoiceAssistant/releases/download/v1.0.0/VoiceAssistantAPP.exe)
+- Status: Live for [Windows OS](https://github.com/pedromartinez079/AI-VoiceAssistant/releases/download/v1.0.0/VoiceAssistantAPP.exe)
 #
 # OpenAi-WebInterface
 - NextJS, ReactJS application that implements a web interface to interact with Open AI tool such us ChatGPT, Dalle, Open AI Assistants, and Open AI Responses.
