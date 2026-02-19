@@ -2,7 +2,7 @@
 #
 # AI-VoiceAssistant-Flutter
 - Android application that allows you to interact with Open AI (chat-gpt) and X AI (grok). Uses STT or speech to text, TTS or text to speech and AI API services. Developed using Flutter/Dart.
-- Status: Live on [Google Play]([https://play.google.com/](https://play.google.com/store/apps/details?id=com.inkawall.ai_voice_assistant))
+- Status: Live on [Google Play](https://play.google.com/store/apps/details?id=com.inkawall.ai_voice_assistant)
 #
 # Bitcoin Blockchain Explorer - Flutter
 - Android application to explore bitcoin blockchain information. Developed using Flutter/Dart.
