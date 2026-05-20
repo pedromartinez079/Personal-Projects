@@ -35,7 +35,7 @@
 # Rantikuq Bot 
 - Python application that monitors Bitcoin stock information and makes automatic trades looking for profits.
 - It uses SMAs information to decide uptrends or downtrades. Time frame daily 1D.
-- Status: Live trading on Binance exchange and post of operations on Twitter [@rantikuqbot](https://twitter.com/rantikuqbot)
+- Status: Deprecated
 #
 # Qhatu Bitcoin Twitter bot
 - Twitter bot developed with python that give market information about Bitcoin.
