@@ -1,5 +1,9 @@
 # Personal-Projects
 #
+# ECommerce Store - Flutter Version
+- Android application that implements a virtual gallery to show products. It is an adaptation for a similar project developed with NextJS (ECommerce Store).
+- Status: Live on [Google Play](https://play.google.com/)
+#
 # AI-VoiceAssistant-Flutter
 - Android application that allows you to interact with Open AI (chat-gpt) and X AI (grok). Uses STT or speech to text, TTS or text to speech and AI API services. Developed using Flutter/Dart.
 - Status: Live on [Google Play](https://play.google.com/store/apps/details?id=com.inkawall.ai_voice_assistant)
