@@ -2,7 +2,7 @@
 #
 # ECommerce Store - Flutter Version
 - Android application that implements a virtual gallery to show products. It is an adaptation for a similar project developed with NextJS. This application uses the NextJS project, live on Vercel, as a backend or API provider.
-- Status: Live on [Google Play](https://play.google.com/store/apps/dev?id=6277363491143203684)
+- Status: Live on [Google Play](https://play.google.com/store/apps/details?id=com.inkawall.e_store)
 #
 # AI-VoiceAssistant-Flutter
 - Android application that allows you to interact with Open AI (chat-gpt) and X AI (grok). Uses STT or speech to text, TTS or text to speech and AI API services. Developed using Flutter/Dart.
@@ -17,7 +17,7 @@
 - Status: Live for [Windows OS](https://github.com/pedromartinez079/AI-VoiceAssistant/releases/download/v1.0.0/VoiceAssistantAPP.exe)
 #
 # OpenAi-WebInterface
-- NextJS, ReactJS application that implements a web interface to interact with Open AI tool such us ChatGPT, Dalle, Open AI Assistants, and Open AI Responses.
+- NextJS, ReactJS application that implements a web interface to interact with Open AI tool such us ChatGPT, GTP-Image and Open AI Responses.
 - Status: [Installation procedure](https://github.com/pedromartinez079/OpenAI-WebInterface)
 #
 # ECommerce Store - NextJS ReactJS Version
